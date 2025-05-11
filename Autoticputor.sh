@@ -1,5 +1,10 @@
 #!/bin/bash
-
+# 📜 License: MIT
+# 🐱 Author: Rancade
+# 🌸 用法: 此脚本仅供参考，请根据实际情况修改脚本内容。
+# 脚本名称: Autoticputor.sh
+# 功能: 自动化检测系统CPU状态。
+# 用法: sh Autoticputor.sh
 # 配置参数
 warning_level="80"  # 警告阈值(%)
 email="2663762772@qq.com"  # 接收邮箱
