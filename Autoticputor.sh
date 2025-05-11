@@ -7,7 +7,7 @@
 # 用法: sh Autoticputor.sh
 # 配置参数
 warning_level="80"  # 警告阈值(%)
-email="2663762772@qq.com"  # 接收邮箱
+email="your_mail@mail.com"  # 接收邮箱
 
 # 获取监控数据
 timestamp="$(date "+%Y-%m-%d %H:%M:%S")"
